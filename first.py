@@ -1,4 +1,4 @@
-# python
+# python - qn from techcareers
 
 word = "dataanalytics"
 trans = word[::-1]
